@@ -1,6 +1,9 @@
 Financial Data Automation Dashboard
+
 Streamlining Financial Data Processing and Delivering Real-Time Insights
+
 Overview
+
 The Financial Data Automation Dashboard is a robust, automated solution designed to transform how financial data is collected, processed, and analyzed. Built to handle daily financial files from multiple field agents, this system eliminates manual bottlenecks, reduces errors, and empowers users with a real-time, interactive dashboard for strategic decision-making.
 
 Automates the entire workflow: from file collection and cleaning to dashboard updates.
