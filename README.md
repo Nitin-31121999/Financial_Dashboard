@@ -13,6 +13,7 @@ Reduces processing time by 80%, freeing up resources for higher-value analysis.
 Improves data accuracy and integrity by eliminating manual data entry errors.
 
 Delivers up-to-date insights to stakeholders, including government clients and internal teams.
+
 Live Dashboard
 👉 [View the Live Dashboard Here](https://app.powerbi.com/reportEmbed?reportId=875d06e5-8d30-4d0e-b4bb-254fb1efdbfa&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
 Note: The dashboard automatically updates whenever new financial data is received from field agents. Data shown is always the latest available.
@@ -40,7 +41,9 @@ Operational Impact:
 $12,000/month savings in labor costs
 
 Improved data integrity and actionable insights
+
 Technical Stack
+
 Outlook (Email file segregation)
 
 Power Automate (Automated file downloads)
@@ -60,6 +63,7 @@ Power BI Service (Dashboard hosting and sharing)
 DAX (Advanced calculations and business logic)
 
 How It Works
+
 Automated File Collection:
 Field agents send daily financial files via email. Power Automate monitors Outlook and saves attachments to Google Drive.
 
@@ -73,9 +77,13 @@ Dashboard Update:
 Power BI aggregates and visualizes the latest data. The dashboard is automatically refreshed—no manual updates required.
 
 Insight Delivery:
+
 Stakeholders access the live dashboard link for up-to-date financial insights and downloadable reports.
+
 Dashboard Insights
+
 KPI Scorecards:
+
 Instantly view average annual income, monthly balances, payment delays, and credit utilization.
 
 Demographic Analysis:
