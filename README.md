@@ -13,6 +13,7 @@ Delivers up-to-date insights to stakeholders, including government clients and i
 Live Dashboard
 👉 [View the Live Dashboard Here](https://app.powerbi.com/reportEmbed?reportId=875d06e5-8d30-4d0e-b4bb-254fb1efdbfa&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
 Note: The dashboard automatically updates whenever new financial data is received from field agents. Data shown is always the latest available.
+
 Key Features
 Automated Data Pipeline:
 Files received via email are automatically downloaded, cleaned, and consolidated—no manual intervention required.
@@ -54,6 +55,7 @@ Power Query Editor (Data cleaning and transformation)
 Power BI Service (Dashboard hosting and sharing)
 
 DAX (Advanced calculations and business logic)
+
 How It Works
 Automated File Collection:
 Field agents send daily financial files via email. Power Automate monitors Outlook and saves attachments to Google Drive.
