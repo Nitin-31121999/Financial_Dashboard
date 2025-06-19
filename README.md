@@ -83,9 +83,10 @@ Note: The dashboard automatically updates whenever new financial data is receive
 
 * **LTV Calculation & Promotions:** Automatically compute Lifetime Value (LTV) per age group and display tailored promotions based on business rules.
 
-![Dashboard Screenshot](https://github.com/Nitin-31121999/Financial_Dashboard/blob/main/Dahboard_Image_13430.png)
-![Dahboard Screenshot](https://github.com/Nitin-31121999/Financial_Dashboard/blob/main/Dashboard_Image_2447.png)
+
+![Screenshot 2025-06-19 133430](https://github.com/user-attachments/assets/c1e69b6f-097f-4aee-ae54-0a43e808868c)
+
+![Screenshot 2025-06-19 133447](https://github.com/user-attachments/assets/c3ce3742-3879-4ad2-807c-633cdac73377)
 
 ## For questions, collaboration, or support, please reach out:
-
 Email: [nitinpatial111@gmail.com](mailto:nitinpatial111@gmail.com)
