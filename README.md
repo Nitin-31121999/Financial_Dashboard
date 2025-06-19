@@ -83,6 +83,8 @@ Note: The dashboard automatically updates whenever new financial data is receive
 
 * **LTV Calculation & Promotions:** Automatically compute Lifetime Value (LTV) per age group and display tailored promotions based on business rules.
 
+![Dashboard Screenshot]()
+
 
 ## For questions, collaboration, or support, please reach out:
 
