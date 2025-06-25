@@ -14,6 +14,16 @@ The Financial Data Automation Dashboard is a robust, automated solution designed
 
 * Delivers up-to-date insights to stakeholders, including government clients and internal teams.
 
+  ## Key Insights:
+  ![Screenshot 2025-06-25 102654](https://github.com/user-attachments/assets/46875923-d1f7-4c6c-a669-13876f7956eb)
+  
+  ![Screenshot 2025-06-25 102643](https://github.com/user-attachments/assets/1e768e33-457a-4c9c-8921-feb14b8ff43b)
+  
+  ![Screenshot 2025-06-25 102713](https://github.com/user-attachments/assets/5782e4cd-b6f7-44b8-b126-b17232e63aed)
+
+  ![Screenshot 2025-06-25 102703](https://github.com/user-attachments/assets/3a315311-218f-48ed-aef6-16af8b555d19)
+
+
 ## Live Dashboard
 
 👉 [View the Live Dashboard Here](https://app.powerbi.com/reportEmbed?reportId=875d06e5-8d30-4d0e-b4bb-254fb1efdbfa&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
@@ -82,11 +92,6 @@ Note: The dashboard automatically updates whenever new financial data is receive
 * **Potential Customer Identification:** Identify age groups with high inquiry rates for targeted loan offers.
 
 * **LTV Calculation & Promotions:** Automatically compute Lifetime Value (LTV) per age group and display tailored promotions based on business rules.
-
-
-![Screenshot 2025-06-19 133430](https://github.com/user-attachments/assets/c1e69b6f-097f-4aee-ae54-0a43e808868c)
-
-![Screenshot 2025-06-19 133447](https://github.com/user-attachments/assets/c3ce3742-3879-4ad2-807c-633cdac73377)
 
 ## For questions, collaboration, or support, please reach out:
 Email: [nitinpatial111@gmail.com](mailto:nitinpatial111@gmail.com)
