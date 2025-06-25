@@ -23,6 +23,10 @@ The Financial Data Automation Dashboard is a robust, automated solution designed
 
   ![Screenshot 2025-06-25 102703](https://github.com/user-attachments/assets/3a315311-218f-48ed-aef6-16af8b555d19)
 
+  ![Screenshot 2025-06-25 102728](https://github.com/user-attachments/assets/e2622231-e133-4f99-8fc8-92517e68dd59)
+
+
+
 
 ## Live Dashboard
 
